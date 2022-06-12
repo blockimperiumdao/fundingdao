@@ -1,0 +1,10 @@
+target/
+web/node_modules/*
+
+
+web/node_modules/
+web/.vscode/
+Cargo.lock
+
+deploy.sh
+test.sh
